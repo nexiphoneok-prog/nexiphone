@@ -1,0 +1,7 @@
+{
+  "name": "NexiPhone - Apple Reseller",
+  "description": "A premium marketplace for certified refurbished iPhones, featuring real-time AI assistance for product comparisons and wholesale partner management.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
